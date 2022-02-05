@@ -1,0 +1,9 @@
+{
+	"name": "dfnew12",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6e7c5a58-3eb1-4c17-a544-cef680a01821",
+		"tenantId": "d7cfbc3b-5250-4333-bf2d-bff83bf2ff17"
+	}
+}
